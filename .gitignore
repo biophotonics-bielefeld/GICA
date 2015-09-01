@@ -1,0 +1,6 @@
+.*.swp
+doc/*
+GICA_*.jar
+GICAsrc_*.jar
+external/*.jar
+update*.sh
